@@ -1,1 +1,18 @@
-
+[
+  {
+  "descricao": "Eliminatórias Copa 2022",
+    "local:" {
+    "nome:" "Al Janoub",
+    "imagem:" "TODO"
+    }
+  "casa:"{
+    "nome:" "Brasil"
+    "forca:" "5"
+    "imagem": "TODO"
+   }
+ "visitante:"{
+    "nome:" "Argentina"
+    "forca:" "5"
+    "imagem": "TODO"
+  }
+]
