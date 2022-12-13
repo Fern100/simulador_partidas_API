@@ -1,18 +1,18 @@
 [
   {
   "descricao": "Eliminatórias Copa 2022",
-    "local:" {
-    "nome:" "Al Janoub",
-    "imagem:" "TODO"
+    "local": {
+    "nome": "Al Janoub",
+    "imagem": "TODO"
     }
-  "casa:"{
-    "nome:" "Brasil"
-    "forca:" "5"
+  "casa":{
+    "nome": "Brasil",
+    "forca": "5",
     "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
    }
- "visitante:"{
-    "nome:" "Argentina"
-    "forca:" "5"
+ "visitante":{
+    "nome": "Argentina",
+    "forca": "5",
     "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
    }
   }
